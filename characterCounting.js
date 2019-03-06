@@ -1,8 +1,3 @@
-// Steps
-// 1. Split a given string into its individual characters
-// 2. Loop through t
-
-
 function countLetters (str) {
   var rep = str.replace(/ /g, '');
   var splitStrArr = rep.split('');
